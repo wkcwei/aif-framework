@@ -10,6 +10,8 @@ An open framework repo for the AIF specification and its rollout materials.
 - `summary/aif-one-pager.pdf`
 - `reference-impl/go/`
 - `reference-impl/ts/`
+- `launch/aif-announcement-post.md`
+- `launch/aif-linkedin-posts.md`
 - `LICENSE`
 
 ## Project overview
@@ -27,6 +29,8 @@ This repository is intended to be the public home for the AIF framework:
 - White paper (PDF): `paper/aif-white-paper.pdf`
 - One-pager (Markdown): `summary/aif-one-pager.md`
 - One-pager (PDF): `summary/aif-one-pager.pdf`
+- LinkedIn launch article draft: `launch/aif-announcement-post.md`
+- LinkedIn short post set: `launch/aif-linkedin-posts.md`
 
 ## Next steps
 
